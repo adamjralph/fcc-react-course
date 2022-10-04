@@ -1,0 +1,22 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "A course from freecodecamp.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gihub.com:adamjralph/react-course.git"
+  },
+  "keywords": [
+    "react",
+    "course"
+  ],
+  "author": "Adam Ralph",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}

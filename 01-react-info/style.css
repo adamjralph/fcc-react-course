@@ -1,0 +1,18 @@
+:root {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* html {
+  background-color: #333;
+  color: rgb(224, 222, 222);
+} */
+
+ul,
+li {
+  list-style: none;
+}
